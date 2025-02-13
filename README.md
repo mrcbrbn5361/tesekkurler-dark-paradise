@@ -1,6 +1,5 @@
-# Teşekkürler Dark Paradise
-
-Bu proje, Dark Paradise Discord sunucusuna yazılmış bir teşekkür mesajını web sayfası olarak görüntülemek için oluşturulmuştur.
+# Teşekkürler Valeria
+Bu proje, Valeria Discord sunucusuna yazılmış bir teşekkür mesajını web sayfası olarak görüntülemek için oluşturulmuştur.
 
 ## Özellikler
 
@@ -13,8 +12,8 @@ Bu proje, Dark Paradise Discord sunucusuna yazılmış bir teşekkür mesajını
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/mrcbrbn5361/tesekkurler-dark-paradise.git
-cd tesekkurler-dark-paradise
+git clone https://github.com/mrcbrbn5361/tesekkurler-valeria.git
+cd tesekkurler-valeria
 ```
 
 2. Gerekli paketleri yükleyin:
